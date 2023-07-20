@@ -26,6 +26,10 @@ After [**NVIDIA driver update**](https://nvidia-driver-update.github.io/) is ins
 3.Approval for system tray balloon notifications
 
 
+[![ Nvidia driver update ](DRIV-UPDATE3.jpg)](https://nvidia-driver-update.github.io/)
+
+
+
 ## Ways to Configure NVIDIA Driver Update
 
 You are given 2 options so as to accomplish [**NVIDIA Driver Update**](https://nvidia-driver-update.github.io/):-
