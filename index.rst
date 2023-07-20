@@ -28,13 +28,13 @@ Mechanism of Nvidia update functioning
 
 After **NVIDIA Driver Update** is installed :- 
 
-1.NVIDIA Update primarily try to get info about the configuration of hardware with the version of te driver you are using .
-2.This is done in order to decide proper driver for your NVIDIA GPUs .
-3.Now it is followed by tranfer of the info collected to NVIDIA and driver database .
-4.Further , you need to configure following :-
-5.No. of times you want updtes to be checked
-6.Approval for beta driver notifications
-7.Approval for system tray balloon notifications
+1. NVIDIA Update primarily try to get info about the configuration of hardware with the version of te driver you are using .
+2. This is done in order to decide proper driver for your NVIDIA GPUs .
+3. Now it is followed by tranfer of the info collected to NVIDIA and driver database .
+4. Further , you need to configure following :-
+5. No. of times you want updtes to be checked
+6. Approval for beta driver notifications
+7. Approval for system tray balloon notifications
 
 
 *******************
@@ -51,19 +51,19 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 (A)Via the NVIDIA Control Panel 
 ====================
 
-1.You need to Right-click on the windows desktop 
-2.Opt NVIDIA Control Panel
-3.Go Help menu and select Updates
-4.Then **Configure NVIDIA Update - Windows System Tray**
+1. You need to Right-click on the windows desktop 
+2. Opt NVIDIA Control Panel
+3. Go Help menu and select Updates
+4. Then **Configure NVIDIA Update - Windows System Tray**
 
 |
 
-.. image:: DRIV-UPDATE3.jpg 
-	 :width: 350px    
-	 :align: center   
-	 :height: 100px  
-	 :alt: Nvidia Driver Update  
-	 :target: https://nvidia-driver-update.readthedocs.io/en/latest/
+.. image:: DRIV-UPDATE3.jpg
+	  :width: 100%    
+	  :align: center   
+	  :height: 50%  
+	  :alt: Nvidia Driver Update  
+	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
 |
 
@@ -71,29 +71,30 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 (B)Via the new NVIDIA logo in the windows system tray
 ====================
 
-1.The logo need a Right-click 
-2.Opt Check for updates or Update preferences
-3.Update NVIDIA Control Panel - Preferences Tab
+1. The logo need a Right-click 
+2. Opt Check for updates or Update preferences
+3. Update NVIDIA Control Panel - Preferences Tab
 
  Now , you will land onthe same interface --- NVIDIA Update control panel by both methods .
 
 **1.On the preferences tab**
-1.You need to Enable and disable NVIDIA Update.
-2.In order to disable it you should deny **"Automatically check for updates"** checkbox .
-3.Select the frequency for which you want update to be checked.
-4.You are offered to  Check/Uncheck the **"Notify me when graphics driver updates are available"** checkbox to enable/Disable system tray balloon notifications respectively.
-5.Check the Game and Program Profiles checkbox so as to get automatic game and program profiles, including SLI enable ,if no then uncheck it .
+1. You need to Enable and disable NVIDIA Update.
+2. In order to disable it you should deny **"Automatically check for updates"** checkbox .
+3. Select the frequency for which you want update to be checked.
+4. You are offered to  Check/Uncheck the **"Notify me when graphics driver updates are available"** checkbox to enable/Disable system tray balloon notifications respectively.
+5. Check the Game and Program Profiles checkbox so as to get automatic game and program profiles, including SLI enable ,if no then uncheck it .
 
 **2.On the Updates tab** 
 Click the Check for Updates button to get latest update info.
 
 |
-.. image:: DRIV-UPDATE4.jpg   
-	  :width: 350px    
+
+.. image:: DRIV-UPDATE4.jpg
+	  :width: 150px    
 	  :align: center   
-	  :height: 100px  
+	  :height: 50px  
 	  :alt: Nvidia Driver Update  
-	  :target: https://nvidia-driver-update.readthedocs.io/en/latest/
+	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
 |
 
