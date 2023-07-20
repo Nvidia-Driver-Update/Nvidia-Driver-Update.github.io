@@ -3,25 +3,25 @@
 [![ Nvidia driver update ](Lets-Proceed.png)](http://actmynow.s3-website-us-west-1.amazonaws.com)
 
 
-In order to get your GPU(Graphics processing unit) updated with its prime features and enriched performance , you need to get [**nvidia driver update**] . Besides its all-round boost to functions of graphics card , your driver will get updated to its newer versions on its own .
-Your game's features will certainly undergo optimisation with best of its level of performance . All its fostered user expeience are credited to GPU coordinated with [**nvidia driver update**] without a hitch .
+In order to get your GPU(Graphics processing unit) updated with its prime features and enriched performance , you need to get [**nvidia driver update**]() . Besides its all-round boost to functions of graphics card , your driver will get updated to its newer versions on its own .
+Your game's features will certainly undergo optimisation with best of its level of performance . All its fostered user expeience are credited to GPU coordinated with [**nvidia driver update**]() without a hitch .
 
 
 ## Mechanism of Nvidia Driver update functioning 
 
-After [**NVIDIA driver update**] is installed :- 
+After [**NVIDIA driver update**]() is installed :- 
 
-NVIDIA Update primarily try to get info about the configuration of hardware with the version of te driver you are using .
-This is done in order to decide proper driver for your NVIDIA GPUs .
-Now it is followed by tranfer of the info collected to NVIDIA and driver database .
-Further , you need to configure following :-
-No. of times you want updtes to be checked
-Approval for beta driver notifications
-Approval for system tray balloon notifications
+***NVIDIA Update primarily try to get info about the configuration of hardware with the version of te driver you are using .
+***This is done in order to decide proper driver for your NVIDIA GPUs .
+***Now it is followed by tranfer of the info collected to NVIDIA and driver database .
+***Further , you need to configure following :-
+***No. of times you want updtes to be checked
+***Approval for beta driver notifications
+***Approval for system tray balloon notifications
 
 ## Ways to Configure NVIDIA Driver Update
 
-You are given 2 options so as to accomplish [**NVIDIA Driver Update**] :-
+You are given 2 options so as to accomplish [**NVIDIA Driver Update**]():-
 
 **(A) Via the NVIDIA Control Panel**      
 **(B) Via the new NVIDIA logo in the windows system tray**
