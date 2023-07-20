@@ -72,7 +72,7 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 	  :align: center   
 	  :height: 250px  
 	  :alt: Nvidia Driver Update  
-	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
+	  :target: https://nvidia-driver-update.readthedocs.io/
 
 |
 
@@ -105,7 +105,7 @@ Click the Check for Updates button to get latest update info.
 	  :align: center   
 	  :height: 200px  
 	  :alt: Nvidia Driver Update  
-	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
+	  :target: https://nvidia-driver-update.readthedocs.io/
 
 |
 
