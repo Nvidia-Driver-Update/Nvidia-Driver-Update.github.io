@@ -4,7 +4,7 @@ Nvidia Driver Update - Get top gaming experience and efficient performance
 ################################################# 
 
 
-.. image:: get-snow.png   
+.. image:: Lets-Proceed.png
 	  :width: 350px    
 	  :align: center   
 	  :height: 100px  
@@ -56,7 +56,7 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 4.Then **Configure NVIDIA Update - Windows System Tray**
 
 
-.. image:: DRIV-UPDATE5.jpg   
+.. image:: DRIV-UPDATE3.jpg   
 	  :width: 350px    
 	  :align: center   
 	  :height: 100px  
