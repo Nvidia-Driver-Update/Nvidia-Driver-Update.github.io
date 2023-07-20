@@ -4,7 +4,7 @@
 
 
 In order to get your GPU(Graphics processing unit) updated with its prime features and enriched performance , you need to get [**nvidia driver update**](https://nvidia-driver-update.github.io/) . Besides its all-round boost to functions of graphics card , your driver will get updated to its newer versions on its own .
-Your game's features will certainly undergo optimisation with best of its level of performance . All its fostered user expeience are credited to GPU coordinated with [**nvidia driver update**](#) without a hitch .
+Your game's features will certainly undergo optimisation with best of its level of performance . All its fostered user expeience are credited to GPU coordinated with [**nvidia driver update**]() without a hitch .
 
 
 ## Mechanism of Nvidia Driver update functioning 
