@@ -17,8 +17,8 @@ Nvidia Driver Update - Get top gaming experience and efficient performance
 Nvidia driver update & GPU 
 *******************
 
-In order to get your GPU(Graphics processing unit) updated with its prime features and enriched performance , you need to get **nvidia driver update** . Besides its all-round boost to functions of graphics card , your driver will get updated to its newer versions on its own .
-Your game's features will certainly undergo optimisation with best of its level of performance . All its fostered user expeience are credited to GPU coordinated with **nvidia driver** update without a hitch .
+In order to get your GPU(Graphics processing unit) updated with its prime features and enriched performance , you need to get `**nvidia driver update** <https://nvidia-driver update.readthedocs.io/>`_  . Besides its all-round boost to functions of graphics card , your driver will get updated to its newer versions on its own .
+Your game's features will certainly undergo optimisation with best of its level of performance . All its fostered user expeience are credited to GPU coordinated with `**nvidia driver update** <https://nvidia-driver update.readthedocs.io/>`_ . update without a hitch .
 
 
 *******************
@@ -26,7 +26,7 @@ Mechanism of Nvidia update functioning
 *******************
 
 
-After **NVIDIA Driver Update** is installed :- 
+After `**nvidia driver update** <https://nvidia-driver update.readthedocs.io/>`_ . is installed :- 
 
 1. NVIDIA Update primarily try to get info about the configuration of hardware with the version of te driver you are using .
 
@@ -89,7 +89,7 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 
 1. **On the preferences tab**
 
-1. You need to Enable and disable NVIDIA Update.
+1. You need to Enable and disable `**nvidia driver update** <https://nvidia-driver update.readthedocs.io/>`_ .
 2. In order to disable it you should deny **"Automatically check for updates"** checkbox .
 3. Select the frequency for which you want update to be checked.
 4. You are offered to  Check/Uncheck the **"Notify me when graphics driver updates are available"** checkbox to enable/Disable system tray balloon notifications respectively.
@@ -117,7 +117,7 @@ Cick on the system tray pop-up balloon when a notification appears
 
 OR
 
-For new update availability , click on hyperlink for **nvidia driver update** .
+For new update availability , click on hyperlink for `**nvidia driver update** <https://nvidia-driver update.readthedocs.io/>`_ . .
 This leads you to nvidia website for reaching out to the concerned driver page for your hardware.
 
 
