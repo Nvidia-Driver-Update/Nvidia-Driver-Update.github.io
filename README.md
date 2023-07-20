@@ -46,6 +46,9 @@ You are given 2 options so as to accomplish [**NVIDIA Driver Update**](https://n
 
 4.Then **Configure NVIDIA Update - Windows System Tray**
 
+
+[![ Nvidia driver update ](DRIV-UPDATE4.jpg)](https://nvidia-driver-update.github.io/)
+
  
 ### B)Via the new NVIDIA logo in the windows system tray
 1.The logo need a Right-click 
