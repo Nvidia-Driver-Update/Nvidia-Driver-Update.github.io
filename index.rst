@@ -67,7 +67,7 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 
 |
 
- ====================
+====================
 (B)Via the new NVIDIA logo in the windows system tray
 ====================
 
@@ -90,9 +90,9 @@ Click the Check for Updates button to get latest update info.
 |
 
 .. image:: DRIV-UPDATE4.jpg
-	  :width: 150px    
+	  :width: 450px    
 	  :align: center   
-	  :height: 50px  
+	  :height: 200px  
 	  :alt: Nvidia Driver Update  
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
