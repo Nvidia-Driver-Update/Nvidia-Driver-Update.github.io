@@ -59,9 +59,9 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 |
 
 .. image:: DRIV-UPDATE3.jpg
-	  :width: 100%    
+	  :width: 500px    
 	  :align: center   
-	  :height: 50%  
+	  :height: 250px  
 	  :alt: Nvidia Driver Update  
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
