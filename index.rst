@@ -84,16 +84,18 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 2. Opt Check for updates or Update preferences
 3. Update NVIDIA Control Panel - Preferences Tab
 
- Now , you will land onthe same interface --- NVIDIA Update control panel by both methods .
+**Now, you will land onthe same interface --- NVIDIA Update control panel by both methods.**
 
-**1. On the preferences tab**
+
+1. **On the preferences tab**
+
 1. You need to Enable and disable NVIDIA Update.
 2. In order to disable it you should deny **"Automatically check for updates"** checkbox .
 3. Select the frequency for which you want update to be checked.
 4. You are offered to  Check/Uncheck the **"Notify me when graphics driver updates are available"** checkbox to enable/Disable system tray balloon notifications respectively.
 5. Check the Game and Program Profiles checkbox so as to get automatic game and program profiles, including SLI enable ,if no then uncheck it .
 
-**2. On the Updates tab** 
+2. **On the Updates tab** 
 Click the Check for Updates button to get latest update info.
 
 |
