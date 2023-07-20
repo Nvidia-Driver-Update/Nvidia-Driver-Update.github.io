@@ -83,6 +83,14 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 **2.On the Updates tab** 
 Click the Check for Updates button to get latest update info.
 
+.. image:: DRIV-UPDATE4.jpg   
+	  :width: 350px    
+	  :align: center   
+	  :height: 100px  
+	  :alt: Nvidia Driver Update  
+	  :target:
+
+
 ====================
 Get Driver updates
 ====================
