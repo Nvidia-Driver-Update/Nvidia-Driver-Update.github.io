@@ -2,16 +2,16 @@
 ################################################# 
 Nvidia Driver Update - Get top gaming experience and efficient performance
 ################################################# 
+|
 
-
-.. image:: Lets-Proceed.png
-	  :width: 350px    
+.. image:: Lets-proceed.png
+	  :width: 150px    
 	  :align: center   
-	  :height: 100px  
+	  :height: 50px  
 	  :alt: Nvidia Driver Update  
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
-
+|
 *******************
 Nvidia driver update & GPU 
 *******************
@@ -54,15 +54,16 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 2.Opt NVIDIA Control Panel
 3.Go Help menu and select Updates
 4.Then **Configure NVIDIA Update - Windows System Tray**
+|
 
-
-.. image:: DRIV-UPDATE3.jpg   
+.. image:: DRIV-UPDATE3.jpg 
 	  :width: 350px    
 	  :align: center   
 	  :height: 100px  
 	  :alt: Nvidia Driver Update  
 	  :target:
 
+|
  ====================
 (B)Via the new NVIDIA logo in the windows system tray
 ====================
