@@ -15,9 +15,9 @@ After [**NVIDIA driver update**]() is installed :-
 ***This is done in order to decide proper driver for your NVIDIA GPUs .
 ***Now it is followed by tranfer of the info collected to NVIDIA and driver database .
 ***Further , you need to configure following :-
-***No. of times you want updtes to be checked
-***Approval for beta driver notifications
-***Approval for system tray balloon notifications
+1.No. of times you want updtes to be checked
+2.Approval for beta driver notifications
+3.Approval for system tray balloon notifications
 
 ## Ways to Configure NVIDIA Driver Update
 
