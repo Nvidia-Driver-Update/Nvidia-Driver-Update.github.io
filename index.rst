@@ -29,11 +29,17 @@ Mechanism of Nvidia update functioning
 After **NVIDIA Driver Update** is installed :- 
 
 1. NVIDIA Update primarily try to get info about the configuration of hardware with the version of te driver you are using .
+
 2. This is done in order to decide proper driver for your NVIDIA GPUs .
+
 3. Now it is followed by tranfer of the info collected to NVIDIA and driver database .
+
 4. Further , you need to configure following :-
+
 5. No. of times you want updtes to be checked
+
 6. Approval for beta driver notifications
+
 7. Approval for system tray balloon notifications
 
 
@@ -48,12 +54,15 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 (B) Via the new NVIDIA logo in the windows system tray
 
 ====================
-(A)Via the NVIDIA Control Panel 
+(A) Via the NVIDIA Control Panel 
 ====================
 
 1. You need to Right-click on the windows desktop 
+
 2. Opt NVIDIA Control Panel
+
 3. Go Help menu and select Updates
+
 4. Then **Configure NVIDIA Update - Windows System Tray**
 
 |
