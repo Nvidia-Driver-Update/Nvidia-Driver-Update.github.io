@@ -12,6 +12,7 @@ Nvidia Driver Update - Get top gaming experience and efficient performance
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
 |
+
 *******************
 Nvidia driver update & GPU 
 *******************
@@ -21,7 +22,7 @@ Your game's features will certainly undergo optimisation with best of its level 
 
 
 *******************
- Mechanism of Nvidia update functioning 
+Mechanism of Nvidia update functioning 
 *******************
 
 
@@ -37,7 +38,7 @@ After **NVIDIA Driver Update** is installed :-
 
 
 *******************
- Ways to Configure NVIDIA Update
+Ways to Configure NVIDIA Update
 *******************
 
 
@@ -54,16 +55,18 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 2.Opt NVIDIA Control Panel
 3.Go Help menu and select Updates
 4.Then **Configure NVIDIA Update - Windows System Tray**
+
 |
 
 .. image:: DRIV-UPDATE3.jpg 
-	  :width: 350px    
-	  :align: center   
-	  :height: 100px  
-	  :alt: Nvidia Driver Update  
-	  :target:
+	 :width: 350px    
+	 :align: center   
+	 :height: 100px  
+	 :alt: Nvidia Driver Update  
+	 :target: https://nvidia-driver-update.readthedocs.io/en/latest/
 
 |
+
  ====================
 (B)Via the new NVIDIA logo in the windows system tray
 ====================
@@ -84,13 +87,15 @@ You are given 2 options so as to accomplish NVIDIA Update :-
 **2.On the Updates tab** 
 Click the Check for Updates button to get latest update info.
 
+|
 .. image:: DRIV-UPDATE4.jpg   
 	  :width: 350px    
 	  :align: center   
 	  :height: 100px  
 	  :alt: Nvidia Driver Update  
-	  :target:
+	  :target: https://nvidia-driver-update.readthedocs.io/en/latest/
 
+|
 
 ====================
 Get Driver updates
