@@ -9,7 +9,7 @@ Nvidia Driver Update - Get top gaming experience and efficient performance
 	  :align: center   
 	  :height: 50px  
 	  :alt: Nvidia Driver Update  
-	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
+	  :target: https://driverupdate.webconnectus.com
 
 |
 
